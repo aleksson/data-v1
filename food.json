@@ -1,0 +1,13 @@
+{
+  "namn": "Sallad",
+  "ingredienser": [
+    {
+      "artikel": "Salladsmix",
+      "mängd": "225g"
+    },
+    {
+      "artikel": "Rhode Island Dressing",
+      "mängd": "2dl"
+    }
+  ]
+}
