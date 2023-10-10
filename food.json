@@ -1,5 +1,6 @@
 {
   "namn": "Sallad",
+  "beskrivning" : "Sallad ska vara en fröjd! Allt från sallad Niçoise, fransk potatissallad och melonsallad - här har vi härliga recept på både lättare och matigare sallader.",
   "ingredienser": [
     {
       "artikel": "Salladsmix",
