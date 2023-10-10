@@ -1,6 +1,7 @@
 {
   "namn": "Sallad",
   "beskrivning" : "Sallad ska vara en fröjd! Allt från sallad Niçoise, fransk potatissallad och melonsallad - här har vi härliga recept på både lättare och matigare sallader.",
+  "img" : "https://cdn-rdb.arla.com/Files/arla-se/1776727224/0ec3cb10-58e6-4a3f-99de-193e9c1e5bb9.jpg?w=1269&h=715&mode=crop&ak=f525e733&hm=b762ca1a",
   "ingredienser": [
     {
       "artikel": "Salladsmix",
